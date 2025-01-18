@@ -1,1 +1,1 @@
-{"Tag":"552GL76VL","Name":"QnJhd2xlcg==","Brawlers":"WyLQqNC10LvQu9C4Il0="}
+{"Tag":"552GL76VL","Name":"QnJhd2xlcg==","Brawlers":"WyLQqNC10LvQu9C4Il0=","Favorite brawler":"0KjQtdC70LvQuA=="}
